@@ -1,0 +1,46 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="512dp"
+    android:height="512dp"
+    android:viewportWidth="512"
+    android:viewportHeight="512">
+
+    <!-- Background -->
+    <path
+        android:fillColor="#6750A4"
+        android:pathData="M0,0 L512,0 L512,512 L0,512 Z" />
+
+    <!-- Gear -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M256,120
+            C180,120 120,180 120,256
+            C120,332 180,392 256,392
+            C332,392 392,332 392,256
+            C392,180 332,120 256,120 Z
+
+            M256,180
+            C298,180 332,214 332,256
+            C332,298 298,332 256,332
+            C214,332 180,298 180,256
+            C180,214 214,180 256,180 Z" />
+
+    <!-- Tool / Wrench -->
+    <path
+        android:fillColor="#6750A4"
+        android:pathData="M286,170
+            C310,174 330,194 334,218
+            L300,252
+            L352,304
+            C360,312 360,324 352,332
+            C344,340 332,340 324,332
+            L272,280
+            L238,314
+            C214,310 194,290 190,266
+            L224,232
+            L172,180
+            C164,172 164,160 172,152
+            C180,144 192,144 200,152
+            L252,204
+            Z" />
+
+</vector>
