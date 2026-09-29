@@ -56,7 +56,7 @@ Place your screenshot in the repository, for example:
 README.md
 screenshot.png
 
-Then README में:
+Then README
 
 ![Drawing App Screenshot](Images/Screenshot.jpg)
 
